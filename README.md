@@ -1,16 +1,16 @@
-### Hi there 👋
+# Larissa Narciso
+<img align="right" width="200" src="larisnarciso.png">
+:computer: Estudando Front End & UX/UI Designer <br/>
+🎓 Sistemas de Informação - UFLA
 
-<!--
-**larisnarciso/larisnarciso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contato:
 
-Here are some ideas to get you started:
+[![LINKEDIN](https://img.shields.io/badge/larisnarciso-%2320232a.svg?style=for-the-badge&logo=linkedIn&logoColor=%e34f26)](https://www.linkedin.com/in/larisnarciso/)
+[![Gmail](https://img.shields.io/badge/Gmail-%2320232a.svg?style=for-the-badge&logo=gmail&logoColor=%e34f26)](mailto:larisnarciso@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias:
+
+![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%e34f26)
+![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%2361dafb)
+![FIGMA](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%ea4c1d)

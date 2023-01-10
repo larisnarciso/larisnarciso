@@ -1,7 +1,9 @@
 # Larissa Narciso
 <img align="right" width="200" src="larisnarciso.png">
-:computer: Estudando Front End & UX/UI Designer <br/>
-🎓 Sistemas de Informação - UFLA
+💻 Estudando Front End & UX/UI Designer <br/>
+🎓 Sistemas de Informação - UFLA <br/>
+
+🌐[Portfólio](https://larisnarciso.github.io/)
 
 ## Contato:
 

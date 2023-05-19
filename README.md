@@ -7,7 +7,7 @@
 
 ## Contato:
 
-[![LINKEDIN](https://img.shields.io/badge/larisnarciso-%2320232a.svg?style=for-the-badge&logo=linkedIn&logoColor=%e34f26)](https://www.linkedin.com/in/larisnarciso/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%2320232a.svg?style=for-the-badge&logo=linkedIn&logoColor=%e34f26)](https://www.linkedin.com/in/larisnarciso/)
 [![Gmail](https://img.shields.io/badge/Gmail-%2320232a.svg?style=for-the-badge&logo=gmail&logoColor=%e34f26)](mailto:larisnarciso@gmail.com)
 
 

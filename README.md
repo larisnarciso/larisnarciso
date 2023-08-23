@@ -3,7 +3,7 @@
 💻 Estudando Front End & UX/UI Designer <br/>
 🎓 Sistemas de Informação - UFLA <br/>
 
-🌐[Portfólio](https://larisnarciso.github.io/)
+🌐[Portfólio | Projetos](https://larisnarciso.github.io/)
 
 ## Contato:
 

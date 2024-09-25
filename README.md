@@ -20,5 +20,4 @@
 
 ## Estatísticas do GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larisnarciso&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=larisnarciso&theme=radical)](https://git.io/streak-stats)

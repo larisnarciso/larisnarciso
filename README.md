@@ -1,6 +1,6 @@
 # Larissa Narciso
 <img align="right" width="200" src="larisnarciso.png">
-💻 Estudando Front End & UX/UI Designer <br/>
+💻 Desenvolvedora Front End<br/>
 🎓 Sistemas de Informação - UFLA <br/>
 
 🌐[Portfólio | Projetos](https://larisnarciso.github.io/)
@@ -12,9 +12,9 @@
 
 
 ## Tecnologias:
-
+![VUE](https://img.shields.io/badge/Vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%)
 ![REACT](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![TAILWIND](https://img.shields.io/badge/Tailwind%20CSS-%2320232a.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=%)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%e34f26)
 ![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%e34f26)
 ![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%2361dafb)

@@ -10,7 +10,6 @@
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%2320232a.svg?style=for-the-badge&logo=linkedIn&logoColor=%e34f26)](https://www.linkedin.com/in/larisnarciso/)
 [![Gmail](https://img.shields.io/badge/Gmail-%2320232a.svg?style=for-the-badge&logo=gmail&logoColor=%e34f26)](mailto:larisnarciso@gmail.com)
 
-
 ## Tecnologias:
 ![VUE](https://img.shields.io/badge/Vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%)
 ![REACT](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%)
@@ -19,4 +18,7 @@
 ![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%e34f26)
 ![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%2361dafb)
 
-![FIGMA](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%ea4c1d)
+## Estatísticas do GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=larisnarciso&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=larisnarciso&theme=radical)](https://git.io/streak-stats)

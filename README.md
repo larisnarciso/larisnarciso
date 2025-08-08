@@ -1,6 +1,6 @@
 # Larissa Narciso
 <img align="right" width="200" src="larisnarciso.png">
-💻 Desenvolvedora Front End<br/>
+💻 Desenvolvedora Full-Stack<br/>
 🎓 Sistemas de Informação - UFLA <br/>
 
 🌐[Portfólio | Projetos](https://larisnarciso.github.io/)

@@ -11,12 +11,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%2320232a.svg?style=for-the-badge&logo=gmail&logoColor=%e34f26)](mailto:larisnarciso@gmail.com)
 
 ## Tecnologias:
-![VUE](https://img.shields.io/badge/Vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%)
-![REACT](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%)
-![TAILWIND](https://img.shields.io/badge/Tailwind%20CSS-%2320232a.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=%)
-![JAVASCRIPT](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%e34f26)
-![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%e34f26)
-![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%2361dafb)
+
+![.NET](https://img.shields.io/badge/.NET-%2320232a.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=239120)
+![Vue](https://img.shields.io/badge/Vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![SQLServer](https://img.shields.io/badge/SQL_Server-%2320232a.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)
+![Docker](https://img.shields.io/badge/Docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-%2320232a.svg?style=for-the-badge&logo=nginx&logoColor=009639)
+![GitHubActions](https://img.shields.io/badge/GitHub_Actions-%2320232a.svg?style=for-the-badge&logo=github-actions&logoColor=2088FF)
 
 ## Estatísticas do GitHub:
 
